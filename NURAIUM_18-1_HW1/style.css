@@ -1,0 +1,14 @@
+.block1 {
+    width: 406px;
+    height: 400px;
+    position: relative;
+    border: 1px solid black;
+
+}
+.block2 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: darkkhaki;
+    
+}
